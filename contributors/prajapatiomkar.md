@@ -2,8 +2,8 @@
 name: Omkar Prajapati 
 title: Contributor
 github: prajapatiomkar
-twitter: ""
-linkedin: ""
+twitter: omkartwts
+linkedin: prajapati-omkar
 slack: ""
 joining_date: ""
 role: contributor
